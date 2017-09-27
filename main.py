@@ -1,8 +1,10 @@
 from youtrack.connection import Connection
 import xml.etree.ElementTree as ET
 
-connection = Connection('https://365scoresui.myjetbrains.com/youtrack', 'shalom@365scores.com', '0melamed0')
+# add credentials
+connection = Connection('https://365scoresui.myjetbrains.com/youtrack', 'username', 'password')
 
+# file to be imported into youtrack
 tree = ET.parse('AndroidLintOverdraw.xml')
 root = tree.getroot()
 
@@ -20,7 +22,3 @@ for problem in root:
     description = problem.find('description').text
     desc = "file: %s \nline: %s \nmodule: %s \nentry point: %s \ndescription: %s \n" % (file, line, module, entry_point, description)
     connection.createIssue('LOO', 'ran', problem_summary, desc,'Normal', 'Performance Problem')
-
-
-
-
