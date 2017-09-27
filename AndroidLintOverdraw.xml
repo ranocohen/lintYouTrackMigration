@@ -1,0 +1,1192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/activity_pre_video.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/activity_pre_video.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/settings.xml</file>
+    <line>6</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/settings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?settingsBackground&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/notification_high_speed_popup.xml</file>
+    <line>4</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/notification_high_speed_popup.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?attr/fast_notification_background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/mundial_single_player_tournament_layout.xml</file>
+    <line>6</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/mundial_single_player_tournament_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/scores_no_games_layout.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/scores_no_games_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?mainDrawerItemClickWithBackground&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/game_details_fragment_aggregations.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/game_details_fragment_aggregations.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?gameCenterAggragetionBackground&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/coma_america_enter_fragment_layout.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/coma_america_enter_fragment_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/tutorial_screen_main.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/tutorial_screen_main.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;@color/semi_transparent_black&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/activity_localization_settings.xml</file>
+    <line>4</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/activity_localization_settings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/game_center_notifications_layout.xml</file>
+    <line>7</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/game_center_notifications_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/notifications_popup.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/notifications_popup.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/remove_ad_option_a.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/remove_ad_option_a.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?RemoveAdsStepOneBackgroundColor&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/competition_data_layout.xml</file>
+    <line>6</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/competition_data_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?GameCenterTabletBackground&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/tournament_navigation_layout.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/tournament_navigation_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/virtual_stadium_comment_row_rtl.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/virtual_stadium_comment_row_rtl.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/promotion_details_layout.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/promotion_details_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?GameCenterCustomGameHeaderBackground&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/remove_ads_for_life_fragment_layout.xml</file>
+    <line>7</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/remove_ads_for_life_fragment_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/players_list.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/players_list.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_base_layout.xml</file>
+    <line>7</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_base_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_leagues.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_leagues.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/copa_america_row.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/copa_america_row.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Item_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/news_center_fragment_layout.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/news_center_fragment_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/right_menu_recent_search_header_rtl.xml</file>
+    <line>7</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/right_menu_recent_search_header_rtl.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?recent_search_background_color&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/game_center_annony_activity_layout.xml</file>
+    <line>6</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/game_center_annony_activity_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/game_center_previous_games.xml</file>
+    <line>7</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/game_center_previous_games.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?mainDrawerItemClick&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/tournament_land_layout.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/tournament_land_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/activity_general_notification_list.xml</file>
+    <line>8</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/activity_general_notification_list.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/activity_set_silent_time_rtl.xml</file>
+    <line>39</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/activity_set_silent_time_rtl.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?nightModeMainBackgroundColor&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/time_settings_layout.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/time_settings_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_setup_layout.xml</file>
+    <line>6</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_setup_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/game_center_fragment_for_details.xml</file>
+    <line>4</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/game_center_fragment_for_details.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Details_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/app_spinner.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/app_spinner.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?DashboardSpinnerItemSelector&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/tournament_layout.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/tournament_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_choose_favorite_team.xml</file>
+    <line>6</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_choose_favorite_team.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/progress_dialog.xml</file>
+    <line>8</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/progress_dialog.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;#00000000&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/game_center_player_stat_layout.xml</file>
+    <line>4</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/game_center_player_stat_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Details_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/activity_select_sound.xml</file>
+    <line>8</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/activity_select_sound.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_choose_sporttype_top_after_click_layout.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_choose_sporttype_top_after_click_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?wizard_choose_favorite_team_scroll_bg_drawable&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/fragment_teambar_search.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/fragment_teambar_search.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?selectionsDrawerBackground&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/news_sub_settings_fragment.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/news_sub_settings_fragment.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/game_center_base_tablet_activity.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/game_center_base_tablet_activity.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?GameCenterTabletBackground&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/mom_winner_view.xml</file>
+    <line>11</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/mom_winner_view.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?mom_player_winner_container_background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/sync_old_config_layout.xml</file>
+    <line>6</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/sync_old_config_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_step_1.xml</file>
+    <line>6</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_step_1.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/all_scores_spinner_row.xml</file>
+    <line>7</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/all_scores_spinner_row.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?AllScoresSpinnerItemBg&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/state_player_group_layout.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/state_player_group_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?mainDrawerItemClickWithBackground&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/legend_page_layout.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/legend_page_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_final_screen_ltr.xml</file>
+    <line>6</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_final_screen_ltr.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/winner_game_layout.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/winner_game_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?winnerAllScoresBg&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/choose_league_main_layout.xml</file>
+    <line>6</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/choose_league_main_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/scores_page_layout.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/scores_page_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/satdium_comments_layout.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/satdium_comments_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_intro_ab_layout.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_intro_ab_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/activity_new_rate_us_opt1.xml</file>
+    <line>6</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/activity_new_rate_us_opt1.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?rateUsWhiteBg&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/Theme_Base_Dialog&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/dashboard_chart_layout.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/dashboard_chart_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_base_layout_v2.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_base_layout_v2.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/competition_page_layout.xml</file>
+    <line>6</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/competition_page_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_choose_sporttype_layout.xml</file>
+    <line>6</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_choose_sporttype_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/tournament_promo_search_competitors.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/tournament_promo_search_competitors.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/social_popup_layout.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/social_popup_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;@color/popup_manager_background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/Theme_Base_Dialog&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/activity_set_silent_time.xml</file>
+    <line>41</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/activity_set_silent_time.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?nightModeMainBackgroundColor&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/substitute_player_row_rtl.xml</file>
+    <line>6</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/substitute_player_row_rtl.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?substitutePlayersSelectorBg&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_step_2.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_step_2.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_final_screen_rtl.xml</file>
+    <line>6</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_final_screen_rtl.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/transfers_page_layout.xml</file>
+    <line>4</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/transfers_page_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/virtual_stadium_check_in.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/virtual_stadium_check_in.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/video_full_screen_activity.xml</file>
+    <line>6</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/video_full_screen_activity.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;#ccffffff&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/news_big_layout.xml</file>
+    <line>8</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/news_big_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?dashboardScoresSideBackground&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/view_toolbar.xml</file>
+    <line>8</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/view_toolbar.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?AppActionBarBackground&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_search_button.xml</file>
+    <line>11</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_search_button.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?wizardScoresFooterBackground&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/allscores_empty_screen_layout.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/allscores_empty_screen_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/choose_theme_activity.xml</file>
+    <line>6</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/choose_theme_activity.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/activity_tournament.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/activity_tournament.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_step_3.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_step_3.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/video_activity_layout.xml</file>
+    <line>7</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/video_activity_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;@color/black&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/facebook_banner_view_ltr.xml</file>
+    <line>6</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/facebook_banner_view_ltr.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;@color/AppWhite&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/comments_footer.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/comments_footer.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/copa_america_activity_layout.xml</file>
+    <line>6</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/copa_america_activity_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_big_button_layout.xml</file>
+    <line>7</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_big_button_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?wizard_extra_item_background_drawable&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/game_center_fragment_layout.xml</file>
+    <line>4</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/game_center_fragment_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Details_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/copa_america_chose_team_fragment_layout.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/copa_america_chose_team_fragment_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/select_lang.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/select_lang.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/transfer_native_ad.xml</file>
+    <line>6</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/transfer_native_ad.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Item_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_simple_toolbar.xml</file>
+    <line>8</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_simple_toolbar.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?AppActionBarBackground&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/comments_fragment_layout.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/comments_fragment_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/state_player_layout.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/state_player_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?mainDrawerItemClick&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/all_scores_spinner_row_rtl.xml</file>
+    <line>8</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/all_scores_spinner_row_rtl.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?AllScoresSpinnerItemBg&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/substitute_players_title_layout.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/substitute_players_title_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?substitutePlayersTitleBg&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/empty_screen_layout.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/empty_screen_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/splash.xml</file>
+    <line>6</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/splash.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;#2b2b2b&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/remove_ad_option_b.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/remove_ad_option_b.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?RemoveAdsStepOneBackgroundColor&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_base_fragment.xml</file>
+    <line>4</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_base_fragment.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/feedback.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/feedback.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/satdium_comments_layout_rtl.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/satdium_comments_layout_rtl.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/state_player_layout_rtl.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/state_player_layout_rtl.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?mainDrawerItemClick&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/fragment_teambar_notification.xml</file>
+    <line>7</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/fragment_teambar_notification.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/select_tz.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/select_tz.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/standings_page_layout.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/standings_page_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/all_scores_page_layout.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/all_scores_page_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_teams.xml</file>
+    <line>6</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_teams.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_intro_layout.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_intro_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_next_view_layout.xml</file>
+    <line>7</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_next_view_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?wizard_toolbar_next_button_bg&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/select_news_source_layout.xml</file>
+    <line>6</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/select_news_source_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/mom_top_3_players.xml</file>
+    <line>4</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/mom_top_3_players.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?mom_content_bg_color&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/player_statistic_char_row.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/player_statistic_char_row.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;@color/app_background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_notify_settings.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_notify_settings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/remove_ads_after_invite_three_friends.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/remove_ads_after_invite_three_friends.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?RemoveAdsStepOneBackgroundColor&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/virtual_stadium_comment_row.xml</file>
+    <line>6</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/virtual_stadium_comment_row.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/radio_notification_layout.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/radio_notification_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;@color/radio_notification&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/general_notifications.xml</file>
+    <line>6</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/general_notifications.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/groups_page_layout.xml</file>
+    <line>4</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/groups_page_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/substitute_player_row.xml</file>
+    <line>6</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/substitute_player_row.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?substitutePlayersSelectorBg&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_search.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/wizard_search.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/annon_handset_details_game_center.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/annon_handset_details_game_center.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/right_menu_recent_search_header.xml</file>
+    <line>7</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/right_menu_recent_search_header.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?recent_search_background_color&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/remove_ad_final_screen.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/remove_ad_final_screen.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?RemoveAdsConfirmationBackgroundColor&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/feed_page_layout.xml</file>
+    <line>4</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/feed_page_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/user_choices_fragment.xml</file>
+    <line>6</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/user_choices_fragment.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?selectionsDrawerBackground&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/competitor_row.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/competitor_row.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?mainDrawerItemClickWithBackground&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/activity_notifications_settings.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/activity_notifications_settings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout-v21/radio_notification_layout.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout-v21/radio_notification_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;@color/AppWhite&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout-land/landscape_standings_layout.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout-land/landscape_standings_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout-sw720dp/sync_old_config_layout.xml</file>
+    <line>6</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout-sw720dp/sync_old_config_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout-sw720dp/splash.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout-sw720dp/splash.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;#2b2b2b&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout-sw720dp-land/competition_data_layout.xml</file>
+    <line>6</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout-sw720dp-land/competition_data_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?GameCenterTabletBackground&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout-sw720dp-land/sync_old_config_layout.xml</file>
+    <line>6</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout-sw720dp-land/sync_old_config_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout-sw720dp-land/splash.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout-sw720dp-land/splash.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;#2b2b2b&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res-dufc/layout/dufc_dialog_layout.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res-dufc/layout/dufc_dialog_layout.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;@drawable/dufc_popup_bg&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/activity_location_wizard.xml</file>
+    <line>7</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout/activity_location_wizard.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?loc_bg_color&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout-v15/old_left_menu_drawer.xml</file>
+    <line>6</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout-v15/old_left_menu_drawer.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?mainDrawerItemClick&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout-v15/fragment_teambar_selection.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout-v15/fragment_teambar_selection.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout-v17/fragment_teambar_selection.xml</file>
+    <line>5</line>
+    <module>_365StoreVersion</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/_365StoreVersion/src/main/res/layout-v17/fragment_teambar_selection.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overdraw: Painting regions more than once</problem_class>
+    <hints />
+    <description>&lt;html&gt;Possible overdraw: Root element paints background &lt;code&gt;?General_Background&lt;/code&gt; with a theme that also paints a background (inferred theme is &lt;code&gt;@style/MainDarkTheme&lt;/code&gt;)&lt;/html&gt;</description>
+  </problem>
+</problems>
+
